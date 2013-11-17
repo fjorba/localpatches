@@ -1,7 +1,7 @@
 localpatches
 ============
 
-Create a set of patches out of a local modifications of a third party software.
+Create a set of patches out of local modifications of a third party software.
 
 Given a standard third party (and free) software, like Invenio, detect which
 files are new or modified in the local instance, and create a simple set of
